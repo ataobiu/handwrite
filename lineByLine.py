@@ -1,7 +1,7 @@
 # _*_ coding :utf-8 _*_
 # @Time   : 2022/12/19 12:10
 # @Author : ataobiu
-# @File   : startWrite2
+# @File   : lineByLine
 # @Project: 川信纸手写模拟
 # 免费字体库：https://www.fonts.net.cn/fonts-zh/tag-shouxie2-1.html
 # A4纸长21cm，宽29.7cm（210mm×297mm）
