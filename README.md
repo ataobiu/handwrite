@@ -11,7 +11,7 @@
 
 ### *oneByOne.py*
 
-##oneByOne：##故名思意，将文本字符，一个接一个打印输出
+oneByOne：顾名思义，将文本字符，一个接一个打印输出
 
 修改**config.json**获得你想要的效果
 
@@ -22,7 +22,7 @@
 
 ### *lineByLine.py*
 
-##lineByLine：##将文本字符按照绘制宽度进行切割，一行接一行打印输出
+lineByLine：将文本字符按照绘制宽度进行切割，一行接一行打印输出
 
 修改**config2.json**获得你想要的效果
 
