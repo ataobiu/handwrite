@@ -6,8 +6,8 @@
 
 - **src**：在**test.txt**里添加文本
 - **fout**：存放你的字体文件
-- **out**：运行**oneByOne.exe**后输出图片的存放路径
-- **out2**：运行**lineByLine.exe**后输出图片的存放路径
+- **out**：运行**oneByOne.py**后输出图片的存放路径
+- **out2**：运行**lineByLine.py**后输出图片的存放路径
 
 ### *oneByOne.py*
 
